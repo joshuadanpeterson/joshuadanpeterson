@@ -41,7 +41,7 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 ### 📫 How to reach me
 
 - Feel free to fork, star, or contribute to any of my repositories. Collaboration is key!
-- Drop me an [email](mailto:joshuadanpeterson@gmail.com?subject=Hello from GitHub!) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshuadanpeterson) for any exciting opportunities or just to chat about tech!
+- Drop me an [email](mailto:joshuadanpeterson@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshuadanpeterson) for any exciting opportunities or just to chat about tech!
 
 Let's code, create, and collaborate!
 
