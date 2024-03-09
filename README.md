@@ -47,4 +47,4 @@ Let's code, create, and collaborate!
 
 ---
 
-Remember, "Any sufficiently advanced technology is equivalent to magic." - Arthur C. Clarke
+"Any sufficiently advanced technology is equivalent to magic." - Arthur C. Clarke
