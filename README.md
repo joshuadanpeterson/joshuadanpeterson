@@ -53,5 +53,5 @@ Let's code, create, and collaborate!
 
 ---
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=nord&animations=grow_out_in&quotesUrl=https://github.com/joshuadanpeterson/joshuadanpetersonquotes.json)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/joshuadanpeterson/joshuadanpetersonquotes.json&theme=nord&animations=grow_out_in)
 
