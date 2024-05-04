@@ -53,4 +53,5 @@ Let's code, create, and collaborate!
 
 ---
 
-"Any sufficiently advanced technology is equivalent to magic." - Arthur C. Clarke
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=nord&animations=grow_out_in&quotesUrl=https://github.com/joshuadanpeterson/joshuadanpetersonquotes.json)
+
