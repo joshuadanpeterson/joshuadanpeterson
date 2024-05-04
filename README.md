@@ -2,9 +2,9 @@
 
 ## Welcome to my GitHub profile!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm an aspiring web developer passionate about writing clean, efficient, and impactful code. I love exploring the synergy between technology and creativity, crafting solutions that not only solve problems but also delight users. Here's a bit about me:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Tech Stack
 
