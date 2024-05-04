@@ -1,4 +1,3 @@
-# Hi there, I'm Josh! 👋
 ![Header](./github-header-image.png)
 
 ## Welcome to my GitHub profile!
