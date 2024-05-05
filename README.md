@@ -102,7 +102,7 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 	<code><a href="https://leetcode.com/joshuadanpeterson/"><img align="center" src="https://leetcode-stats-six.vercel.app/api?username=joshuadanpeterson" alt="Josh's LeetCode Stats" title="Josh's LeetCode Stats"></a></code>
 </div>
 
-
+<p></p>
 Let's code, create, and collaborate!
 
 ***
