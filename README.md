@@ -96,8 +96,6 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 
 Let's code, create, and collaborate!
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=joshuadanpeterson&count=1)](https://open.spotify.com/user/joshuadanpeterson)
-
 ***
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/joshuadanpeterson/joshuadanpeterson/blob/main/quotes.json&theme=nord&animation=grow_out_in)
