@@ -6,9 +6,7 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 <div>
 	<code><a href="https://github.com/joshuadanpeterson"><img src="https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord" alt="Josh's GitHub Stats" title="Josh's GitHub Stats"></a></code>
 </div>
-<div>
-	<code><a href="https://github.com/joshuadanpeterson><img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuadanpeterson&theme=nord&hide_border=false" alt="Josh's GitHub Contributions and Streaks" title="Josh's GitHub Contributions and Streaks"></a></code>
-</div>
+[![Josh's GitHub Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=joshuadanpeterson&theme=nord&hide_border=false)](https://github.com/joshuadanpeterson) 
 <div>
 	<code><a href="https://github.com/joshuadanpeterson"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadanpeterson&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Josh's Most Used Languages" title="Josh's Most Used Languages"></a></code>
 </div>
