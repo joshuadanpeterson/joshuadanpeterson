@@ -4,10 +4,10 @@
 
 I'm an aspiring web developer passionate about writing clean, efficient, and impactful code. I love exploring the synergy between technology and creativity, crafting solutions that not only solve problems but also delight users. Here's a bit about me:
 
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord)](https://github.com/joshuadanpeterson)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord)](https://github.com/joshuadanpeterson)<br/>
 [![Josh's GitHub Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=joshuadanpeterson&theme=nord&hide_border=false)](https:///github.com/joshuadanpeterson)<br/>
-<div align="center">
-	<code><a href="https://github.com/joshuadanpeterson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadanpeterson&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Josh's Most Used Languages" title="Josh's Most Used Languages"></a></code>
+<div>
+	<code><a href="https://github.com/joshuadanpeterson"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadanpeterson&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Josh's Most Used Languages" title="Josh's Most Used Languages"></a></code>
 </div>
 
 ### 🛠 Tech Stack
