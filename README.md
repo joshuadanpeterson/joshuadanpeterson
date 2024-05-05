@@ -4,10 +4,10 @@
 
 I'm an aspiring web developer passionate about writing clean, efficient, and impactful code. I love exploring the synergy between technology and creativity, crafting solutions that not only solve problems but also delight users. Here's a bit about me:
 <div>
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord)](https://github.com/joshuadanpeterson)<br/>
+	<code><a href="https://github.com/joshuadanpeterson"><img src="https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord" alt="Josh's GitHub Stats" title="Josh's GitHub Stats"></a></code>
 </div>
 <div>
-[![Josh's GitHub Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=joshuadanpeterson&theme=nord&hide_border=false)](https:///github.com/joshuadanpeterson)<br/>
+	<code><a href="https://github.com/joshuadanpeterson><img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuadanpeterson&theme=nord&hide_border=false alt="Josh's GitHub Contributions and Streaks" title="Josh's GitHub Contributions and Streaks"></a></code>
 </div>
 <div>
 	<code><a href="https://github.com/joshuadanpeterson"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadanpeterson&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Josh's Most Used Languages" title="Josh's Most Used Languages"></a></code>
