@@ -97,7 +97,7 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 - Check out my [CodePen](https://codepen.io/joshuadanpeterson/collections/) and my [Replit](https://replit.com/@joshuadanpeterson)!
 - Drop me an [email](mailto:joshuadanpeterson@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshuadanpeterson) for any exciting opportunities or just to chat about tech!
 
-### Look me up on [LeetCode](https://leetcode.com/joshuadanpeterson/)!
+### 💻 Look me up on [LeetCode](https://leetcode.com/joshuadanpeterson/)!
 <div align="center">
 	<code><a href="https://leetcode.com/joshuadanpeterson/"><img align="center" src="https://leetcode-stats-six.vercel.app/api?username=joshuadanpeterson" alt="Josh's LeetCode Stats" title="Josh's LeetCode Stats"></a></code>
 </div>
