@@ -6,7 +6,7 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 <div>
 	<code><a href="https://github.com/joshuadanpeterson"><img src="https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord" alt="Josh's GitHub Stats" title="Josh's GitHub Stats"></a></code>
 </div>
-
+<br/>
 [![Josh's GitHub Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=joshuadanpeterson&theme=nord&hide_border=false)](https://github.com/joshuadanpeterson)<br/>
 
 <div>
