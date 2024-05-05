@@ -6,11 +6,11 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuadanpeterson&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 ![Josh's GitHub Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=joshuadanpeterson&theme=nord&hide_border=false)<br/>
-<div align="center">
+<p align="center">
 	
 	![Josh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadanpeterson&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+</p>
 
 ### 🛠 Tech Stack
 
