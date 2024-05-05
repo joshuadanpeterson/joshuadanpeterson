@@ -104,8 +104,7 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 
 <p></p>
 Let's code, create, and collaborate!
-
-***
+<p></p>
 
 <div align="center">
 	<code><img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/joshuadanpeterson/joshuadanpeterson/blob/main/quotes.json&theme=nord&animation=grow_out_in" alt="Quote" title="Quote"></code>
