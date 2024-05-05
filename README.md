@@ -92,13 +92,16 @@ I'm an aspiring web developer passionate about writing clean, efficient, and imp
 - Drop me an [email](mailto:joshuadanpeterson@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshuadanpeterson) for any exciting opportunities or just to chat about tech!
 
 ### Look me up on [LeetCode](https://leetcode.com/joshuadanpeterson/)!
-[![Josh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=joshuadanpeterson)](https://leetcode.com/joshuadanpeterson/)
-
+<div align="center">
+	<code><a href="https://leetcode.com/joshuadanpeterson/"><img align="center" src="https://leetcode-stats-six.vercel.app/api?username=joshuadanpeterson" alt="Josh's LeetCode Stats" title="Josh's LeetCode Stats"></a></code>
+</div>
 
 
 Let's code, create, and collaborate!
 
 ***
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/joshuadanpeterson/joshuadanpeterson/blob/main/quotes.json&theme=nord&animation=grow_out_in)
+<div align="center">
+	<code><img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/joshuadanpeterson/joshuadanpeterson/blob/main/quotes.json&theme=nord&animation=grow_out_in" alt="Quote" title="Quote"></code>
+</div>
 
