@@ -65,7 +65,7 @@ Feel free to fork, star, or contribute to any of my repositories. Collaboration 
 </div>
 
 <div class="leetcode" align="center">
-	<h3>💻 Look me up on <a href="https://leetcode.com/joshuadanpeterson/">LeetCode</a>!</h3>
+	<h3>💻 Look me up on <a href="https://leetcode.com/joshuadanpeterson/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" title="LeetCode" /></a></h3>
 	<a href="https://leetcode.com/joshuadanpeterson/"><img align="center" src="https://leetcard.jacoblin.cool/joshuadanpeterson?ext=heatmap" alt="Josh's LeetCode Stats" title="Josh's LeetCode Stats"></a>
 
 <p></p>
